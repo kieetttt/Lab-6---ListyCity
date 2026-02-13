@@ -1,4 +1,3 @@
-# Lab-6---ListyCity
 # CMPUT 301 : Lab 6
 
 ## Student Details
